@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.weppage{
+width: 750px;
+margin: 0 auto;
+background-color: rgb(246, 180, 234);
+overflow: hidden;
+padding: 50px;
+}
+h1{
+text-align: center;
+}
+.weppage h4{
+background-color: white;
+width: 100%;
+
+}
+.weppage .container{
+width: 100%;
+/*padding: 10px;*/
+background-color: rgb(239, 143, 201);    
+
+}
